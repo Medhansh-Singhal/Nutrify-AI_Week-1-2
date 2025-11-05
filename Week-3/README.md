@@ -142,7 +142,7 @@ streamlit run app.py
 - **Expert Advice**: AI-powered guidance
 - **Multi-language**: Hindi and English support
 
-### For Your Internship
+### For Internship
 - **Complete Project**: Week 1 + Week 2 + Week 3
 - **Production Ready**: Deployable application
 - **Real Impact**: Helps actual farmers
@@ -152,3 +152,4 @@ streamlit run app.py
 
 
 **🌱 Ready to help Indian farmers improve their soil health through AI-powered, sustainable solutions!**
+
